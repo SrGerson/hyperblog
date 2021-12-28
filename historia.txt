@@ -3,6 +3,7 @@ hola
  mi nombre es gerson
  tengo 25 años y soy estudiante 
  soy de coronel
+ experimento 1
 master 1
 master 2
 y soy operador senior
