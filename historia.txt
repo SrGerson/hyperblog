@@ -4,6 +4,7 @@ hola
  tengo 25 años y soy estudiante 
  soy de coronel
 master 1
+master 2
 y soy operador senior
 y quiero ser ingeniero
  modificando el nuevo archivo
